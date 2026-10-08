@@ -1,0 +1,16 @@
+{
+  "name": "meadow-paws-pet-shop",
+  "version": "1.0.0",
+  "description": "Meadow & Paws \u2014 pet supplies site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "compression": "^1.8.1"
+  }
+}
